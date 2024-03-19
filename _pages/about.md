@@ -49,7 +49,8 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 
 
 - *2021,* A wireless intelligent sensor and its application. patent number: CN202110094598.5
-
+</div>
+</div>
   
 
 # 📖 Educations
