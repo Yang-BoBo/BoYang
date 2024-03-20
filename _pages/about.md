@@ -31,9 +31,9 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/ECAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hybrid Real- and Complex-valued Neural Network Architecture](under submission)
+[Hybrid Real- and Complex-valued Neural Network Architecture] (under submission)
 
-**Bo Yang**, Luan, Boris, Alex
+**Bo Yang**, Luan, Boris, Alex (under submission)
 
 </div>
 </div>
