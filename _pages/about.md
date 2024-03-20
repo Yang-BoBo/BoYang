@@ -41,8 +41,8 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JC&S 2024</div><img src='images/JCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Successive Threshold-Based Multipath Mitigation Aided by Neural Network for UWB Ranging][Intro.pdf](https://github.com/Yang-BoBo/BoYang/blob/main/file/INTERSPEECH_2024.pdf)
-
+[Successive Threshold-Based Multipath Mitigation Aided by Neural Network for UWB Ranging][Intro.pdf](https://yang-bobo.github.io/BoYang/file/JC&S.pdf)
+<a href="[username.github.io/folder/document.pdf](https://yang-bobo.github.io/BoYang/file/JC&S.pdf)" target="_blank">PDF.</a>
  Alireza Sheikh, **Bo Yang**, Mohieddine El Soussi, Amirashkan Farsaei, and Peng Zhang
 
 - [NN-aid-High-accuracy-Range-Estimation](https://github.com/Yang-BoBo/NN-aid-High-accuracy-Range-Estimation),  **JC&S 2024**
@@ -54,8 +54,8 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2024</div><img src='images/INTERSPEECH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SLIDING CONTEXTWINDOWPOST-PROCESSINGMETHODFORNEURAL NETWORK-BASEDMONAURALSPEECHENHANCEMENT][Intro.pdf](https://github.com/Yang-BoBo/BoYang/blob/main/file/JC%26S.pdf) (under submission)
-
+[SLIDING CONTEXTWINDOWPOST-PROCESSINGMETHODFORNEURAL NETWORK-BASEDMONAURALSPEECHENHANCEMENT](https://yang-bobo.github.io/BoYang/file/INTERSPEECH.pdf) (under submission)
+<a href="https://yang-bobo.github.io/BoYang/file/INTERSPEECH.pdf" target="_blank">PDF.</a>
   Luan Vinıcius Fiorio, Boris Karanov, **Bo Yang**, Bruno Defraene,Johan David, Frans Widdershoven, Wim van Houtum, Ronald M. Aarts
 
 </div>
