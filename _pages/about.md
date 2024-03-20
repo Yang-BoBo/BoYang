@@ -87,25 +87,16 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electrical Engineering. 
 # 💻 Internships
 - *2023.12 - 2024.09, Research Intern*, **NXP**, Eindhoven NL
 
-	I am a part of the ML&AI department at NXP, where my role centers around the optimization of the
-innovative Complex-Real Value Neural Network (CRVNN) developed by NXP. My primary focus lies within the
- realm of autoML, particularly in areas such as Hyperparameter Optimization (HPO) and Neural Architecture
- Search (NAS). I leverage autoML frameworks like Optuna and NNI to enhance both the architecture and other
- hyperparameters of the CRVNN. Additionally, I am actively involved in crafting automated procedures for the
- design of this novel network. My responsibilities extend to the development of an architecture optimization
- framework, followed by efforts to enhance the interpretability and explainability of the network. Once the CRVNN
- architecture is refined, I apply it to specific tasks, such as optimizing its performance for applications like hearing
- aids
+	- I am a part of the ML&AI department at NXP, where my role centers around the optimization of the innovative Complex-Real Value Neural Network (CRVNN) developed by NXP.
+	- My primary focus lies within the realm of autoML, particularly in areas such as Hyperparameter Optimization (HPO) and Neural Architecture Search (NAS).
+	- I leverage autoML frameworks like Optuna and NNI to enhance both the architecture and other hyperparameters of the CRVNN. Additionally, I am actively involved in crafting automated procedures for the design of this novel network.
+	- My responsibilities extend to the development of an architecture optimization framework, followed by efforts to enhance the interpretability and explainability of the network. Once the CRVNN architecture is refined, I apply it to specific tasks, such as optimizing its performance for applications like hearing aids.
 
 - *2023.07 - 2023.12, Research Intern*, **IMEC**, Eindhoven NL
 
-	In my role as a research intern with the UWB4z group at IMEC, my primary responsibility is to enhance the
- accuracy of range estimation and localization for UWB devices in diverse environments. I delve into the
- development of innovative algorithms and construct efficient neural networks to elevate the precision of UWB
- devices. Through a comprehensive analysis of UWB signal characteristics, I introduced a cutting-edge neural
- network architecture named 'STMnet.' This architecture, when integrated with IMEC's internal algorithm, resulted in a significant enhancement in range estimation performance compared to established methods. The successful
- outcomes of this work have been documented and published in the International Symposium on Joint
- Communications & Sensing 2024.
+	- In my role as a research intern with the UWB4z group at IMEC, my primary responsibility is to enhance the accuracy of range estimation and localization for UWB devices in diverse environments.
+	- I delve into the development of innovative algorithms and construct efficient neural networks to elevate the precision of UWB devices. Through a comprehensive analysis of UWB signal characteristics, I introduced a cutting-edge neural network architecture named 'STMnet'.
+	- This architecture, when integrated with IMEC's internal algorithm, resulted in a significant enhancement in range estimation performance compared to established methods. The successful outcomes of this work have been documented and published in the International Symposium on Joint Communications & Sensing 2024.
 
 - *2021.09 - 2022.01, Research Intern*, **DiDi Global**, China
 	
