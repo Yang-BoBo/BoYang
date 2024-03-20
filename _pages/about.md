@@ -55,7 +55,7 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2024</div><img src='images/INTERSPEECH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SLIDING CONTEXTWINDOWPOST-PROCESSINGMETHODFORNEURAL NETWORK-BASEDMONAURALSPEECHENHANCEMENT](https://yang-bobo.github.io/BoYang/file/INTERSPEECH.pdf) (under submission)
+[SLIDING CONTEXTWINDOWPOST-PROCESSINGMETHODFORNEURAL NETWORK-BASEDMONAURALSPEECHENHANCEMENT](https://yang-bobo.github.io/BoYang/file/INTERSPEECH_2024.pdf) (under submission)
 
   Luan Vinıcius Fiorio, Boris Karanov, **Bo Yang**, Bruno Defraene,Johan David, Frans Widdershoven, Wim van Houtum, Ronald M. Aarts
 
