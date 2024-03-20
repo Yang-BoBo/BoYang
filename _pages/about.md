@@ -45,13 +45,14 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 
  Alireza Sheikh, **Bo Yang**, Mohieddine El Soussi, Amirashkan Farsaei, and Peng Zhang
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com),  **JC&S 2024**
+- [NN-aid-High-accuracy-Range-Estimation](https://github.com/Yang-BoBo/NN-aid-High-accuracy-Range-Estimation),  **JC&S 2024**
 
 </div>
 </div>
+
+
 - *2021,* A wireless intelligent sensor and its application. patent number: CN202110094598.5
-</div>
-</div>
+
   
 
 # 📖 Educations
@@ -60,10 +61,8 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 	*GPA*: 8.4/10
 
 	*Relevant Course*:
-  
-Statistical signal processing, Non-linear optimization, Bayesian machine learning and information processing ,
-					Adaptive array signal processing, Techniques for video compression & analysis, 
-					Convolutional neural networks for computer vision, Advanced sensing using deep learning.
+	Statistical signal processing, Non-linear optimization, Bayesian machine learning and information processing , Adaptive array signal processing, Techniques for video compression & analysis,  Convolutional neural networks for computer vision, Advanced sensing using deep learning.
+
 
 - *2018.09 - 2022.07*, Bachelor in Electronic Engineering, **Shandong University**, Qingdao, China
 	
@@ -89,11 +88,13 @@ innovative Complex-Real Value Neural Network (CRVNN) developed by NXP. My primar
 
 - *2023.07 - 2023.12, Research Intern*, **IMEC**, Eindhoven NL
 
-	I am working in UWB4z Group. My work as follow:
-	- Research relative papers about ranging estimation using UWB signals. 
-	- Use deep learning to empower exsisting algorithm to achieve better performance.
-	- Design the architecture of neural network and train it on IMEC simulation data set.
-	- Test the performance on various criterions and write paper.
+	In my role as a research intern with the UWB4z group at IMEC, my primary responsibility is to enhance the
+ accuracy of range estimation and localization for UWB devices in diverse environments. I delve into the
+ development of innovative algorithms and construct efficient neural networks to elevate the precision of UWB
+ devices. Through a comprehensive analysis of UWB signal characteristics, I introduced a cutting-edge neural
+ network architecture named 'STMnet.' This architecture, when integrated with IMEC's internal algorithm, resulted in a significant enhancement in range estimation performance compared to established methods. The successful
+ outcomes of this work have been documented and published in the International Symposium on Joint
+ Communications & Sensing 2024.
 
 - *2021.09 - 2022.01, Research Intern*, **DiDi Global**, China
 	
