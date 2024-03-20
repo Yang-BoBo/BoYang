@@ -33,7 +33,7 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 
 [Hybrid Real- and Complex-valued Neural Network Architecture] (under submission)
 
-**Bo Yang**, Luan, Boris, Alex (under submission)
+**Bo Yang**, Luan, Boris, Alex
 
 </div>
 </div>
@@ -41,7 +41,7 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JC&S 2024</div><img src='images/JCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Successive Threshold-Based Multipath Mitigation Aided by Neural Network for UWB Ranging](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Successive Threshold-Based Multipath Mitigation Aided by Neural Network for UWB Ranging]("file/JC&S.pdf")
 
  Alireza Sheikh, **Bo Yang**, Mohieddine El Soussi, Amirashkan Farsaei, and Peng Zhang
 
@@ -50,6 +50,15 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electronic Engineering. 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2024</div><img src='images/INTERSPEECH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SLIDING CONTEXTWINDOWPOST-PROCESSINGMETHODFORNEURAL NETWORK-BASEDMONAURALSPEECHENHANCEMENT]("file/INTERSPEECH.pdf") (under submission)
+
+  Luan Vinıcius Fiorio, Boris Karanov, **Bo Yang**, Bruno Defraene,Johan David, Frans Widdershoven, Wim van Houtum, Ronald M. Aarts
+
+</div>
+</div>
 
 - *2021,* A wireless intelligent sensor and its application. patent number: CN202110094598.5
 
