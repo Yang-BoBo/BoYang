@@ -1,7 +1,7 @@
 # main links links
-#main:
-#  - title: "About Me"
-#    url: "/#about-me"
+main:
+  - title: "CV"
+    url: "https://yang-bobo.github.io/BoYang/file/BoYangCV1.pdf"
 #
 #  - title: "News"
 #    url: "/#-news"
