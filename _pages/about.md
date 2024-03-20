@@ -77,7 +77,7 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electrical Engineering. 
 
 - *2018.09 - 2022.07*, Bachelor in Electronic Engineering, **Shandong University**, Qingdao, China
 	
-	*GPA*: 84.76/100 (TOP 22%)
+	*GPA*: 84.76/100
 
 
 # 💬 Invited as TPC reviewer
