@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Bo Yang"
 description              : "Second year master student in Signal Processing System "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "https://github.com/Yang-BoBo"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "b.yang2@student.tue.nl"
-  CV               : "https://yang-bobo.github.io/BoYang/file/BoYangCV1.pdf"
+  CV               : "https://yang-bobo.github.io/BoYang/file/BoYangCV.pdf"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Yang-BoBo?tab=repositories"
+  github           : "https://github.com/Yang-BoBo"
   google_plus      :
   keybase          :
   instagram        :
