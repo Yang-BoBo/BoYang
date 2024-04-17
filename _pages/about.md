@@ -28,7 +28,7 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electrical Engineering. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/ECAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/ECAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Hybrid Real- and Complex-valued Neural Network Architecture** (under submission)
