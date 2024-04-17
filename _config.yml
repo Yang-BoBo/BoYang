@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Bo Yang"
 description              : "Second year master student in Signal Processing System "
-repository               : "https://github.com/Yang-BoBo"
+repository               : "https://github.com/Yang-BoBo?tab=repositories"
 google_scholar_stats_use_cdn : true
 
 # google analytics
