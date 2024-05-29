@@ -33,7 +33,7 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electrical Engineering. 
 
 **Hybrid Real- and Complex-valued Neural Network Architecture** (under submission)
 
-Luan Vinıcius Fiorio, **Bo Yang**, Boris Karanov, Alex Young, Wim van Houtum, Ronald Aarts
+Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Boris Karanov, Alex Young, Wim van Houtum, Ronald Aarts
 
 </div>
 </div>
