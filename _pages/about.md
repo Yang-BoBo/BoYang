@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I’m Bo Yang, a MSc student specializing in Electrical Engineering. My research interests are primarily focused on Deep Learning for audio and speech related challenges, computer vision, and signal processing. Presently, I am gaining research experience as an intern at NXP within the RAISE project. My MSc thesis centers around the optimization of the innovative Complex-Real Value Neural Network (CRVNN) developed by NXP. My primary focus lies within the realm of autoML, particularly in areas such as Hyperparameter Optimization (HPO) and Neural Architecture Search (NAS). I leverage autoML frameworks like Optuna to enhance both the architecture and other hyperparameters of the CRVNN. Then use optimized NN to do audio related application such as speech enhancement. We are at an AI carnival, a transformative era akin to the advent of steam engines and electricity, reshaping the fabric of human society. My aspiration is not to stand on the sidelines but to actively engage as a participant in this dynamic celebration. That’s why I am actively seeking a PhD position.
+Greetings! I’m Bo Yang. My research interests are primarily focused on Deep Learning for audio and speech related challenges, computer vision, and signal processing. Presently, I am gaining research experience as an intern at NXP within the RAISE project. My MSc thesis centers around the optimization of the innovative Complex-Real Value Neural Network (CRVNN) developed by NXP. My primary focus lies within the realm of autoML, particularly in areas such as Hyperparameter Optimization (HPO) and Neural Architecture Search (NAS). I leverage autoML frameworks like Optuna to enhance both the architecture and other hyperparameters of the CRVNN. Then use optimized NN to do audio related application such as speech enhancement. I just finished my MSc defense and graduated with a Cum Laude in TU/e. Currently I'm looking PhD positions.
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 I graduate from TU/e with Cum Laude. And was offered a system engineer position in NXP CTO group.
 - *2023.12*: &nbsp;🎉🎉 I will be an intern at **[NXP](https://www.nxp.com/)** for 9 months, supervised by Prof. [Ronald Aarts(TU/e)](https://scholar.google.com/citations?user=4YkmIdIAAAAJ) and Prof. [Frans Widdershoven(Tud)](https://scholar.google.com/citations?user=hjoNDEcAAAAJ)
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[IMEC](https://www.imec.be/nl)** for 5 months, supervised by Dr. [Alireza Sheikh(IMEC)](https://scholar.google.com/citations?user=cFi3oTsAAAAJ) and Prof. [Hamdi Joudeh(TU/e)](https://www.tue.nl/en/research/researchers/hamdi-joudeh/)
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e in Electrical Engineering (Signal Processing System).
@@ -28,7 +29,7 @@ Greetings! I’m Bo Yang, a MSc student specializing in Electrical Engineering. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/ECAI_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OJSP 2025</div><img src='images/ECAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Hybrid Real- and Complex-valued Neural Network Architecture** (under submission)
@@ -52,7 +53,7 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INTERSPEECH 2024</div><img src='images/INTERSPEECH.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLT 2024</div><img src='images/INTERSPEECH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SLIDING CONTEXTWINDOWPOST-PROCESSINGMETHODFORNEURAL NETWORK-BASEDMONAURALSPEECHENHANCEMENT](https://yang-bobo.github.io/BoYang/file/INTERSPEECH_2024.pdf) (under submission)
@@ -67,10 +68,11 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
   
 
 # 📖 Educations
-- *2022.09 - now*, Master in Eletrical Engneering(track:Signal Processing System), **Eindhoven University of Technology**, Netherlands
+- *2022.09 - 2024.08*, Master in Eletrical Engneering(track:Signal Processing System),**(CUM LAUDE)**, **Eindhoven University of Technology**, Netherlands
 
-	*GPA*: 8.4/10
-
+	*GPA*: 8.5/10
+  	*THESIS*: 9/10
+	
 	*Relevant Course*:
 	Statistical signal processing, Non-linear optimization, Bayesian machine learning and information processing , Adaptive array signal processing, Techniques for video compression & analysis,  Convolutional neural networks for computer vision, Advanced sensing using deep learning.
 
