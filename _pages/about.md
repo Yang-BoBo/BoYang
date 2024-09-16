@@ -71,6 +71,7 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
 - *2022.09 - 2024.08*, Master in Eletrical Engneering(track:Signal Processing System),**(CUM LAUDE)**, **Eindhoven University of Technology**, Netherlands
 
 	*GPA*: 8.5/10
+  
   	*THESIS*: 9/10
 	
 	*Relevant Course*:
