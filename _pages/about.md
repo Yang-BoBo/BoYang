@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! I’m Bo Yang. My research interests are primarily focused on Deep Learning for audio and speech related challenges, computer vision, and signal processing. Presently, I am gaining research experience as an intern at NXP within the RAISE project. My MSc thesis centers around the optimization of the innovative Complex-Real Value Neural Network (CRVNN) developed by NXP. My primary focus lies within the realm of autoML, particularly in areas such as Hyperparameter Optimization (HPO) and Neural Architecture Search (NAS). I leverage autoML frameworks like Optuna to enhance both the architecture and other hyperparameters of the CRVNN. Then use optimized NN to do audio related application such as speech enhancement. I just finished my MSc defense and graduated with a Cum Laude in TU/e. Currently I'm looking PhD positions. 
+Greetings! My name is Bo Yang, a CS fresh PhD student at Delft University of Technology. My research focuses on Embedded AI for 6G Networks, optimizing AI algorithms to adapt to diverse hardware and computing capabilities across advanced communication infrastructures. With an emphasis on designing hardware-aware, adaptable AI models, I aim to enhance performance and scalability within 6G base stations that manage densely packed frequency bands. My work supports seamless connectivity across space, air, and ground base stations, driving innovation in the co-design of AI and hardware for efficient, next-generation network solutions.
+
+
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 I graduate from TU/e with Cum Laude. And was offered a system engineer position in NXP CTO group.
+- *2024.11*: &nbsp;🎉🎉 I started my PhD studies in Computer Science at TU Delft.
+- *2024.09*: &nbsp;🎉🎉 I graduate from TU/e with Cum Laude, and finish my internship at NXP system group.
 - *2023.12*: &nbsp;🎉🎉 I will be an intern at **[NXP](https://www.nxp.com/)** for 9 months, supervised by Prof. [Ronald Aarts(TU/e)](https://scholar.google.com/citations?user=4YkmIdIAAAAJ) and Prof. [Frans Widdershoven(Tud)](https://scholar.google.com/citations?user=hjoNDEcAAAAJ)
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[IMEC](https://www.imec.be/nl)** for 5 months, supervised by Dr. [Alireza Sheikh(IMEC)](https://scholar.google.com/citations?user=cFi3oTsAAAAJ) and Prof. [Hamdi Joudeh(TU/e)](https://www.tue.nl/en/research/researchers/hamdi-joudeh/)
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e in Electrical Engineering (Signal Processing System).
@@ -55,13 +58,6 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLT 2024</div><img src='images/INTERSPEECH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[SLIDING CONTEXTWINDOWPOST-PROCESSINGMETHODFORNEURAL NETWORK-BASEDMONAURALSPEECHENHANCEMENT](https://yang-bobo.github.io/BoYang/file/INTERSPEECH_2024.pdf) (under submission)
-
-  Luan Vinıcius Fiorio, Boris Karanov, **Bo Yang**, Bruno Defraene,Johan David, Frans Widdershoven, Wim van Houtum, Ronald M. Aarts
-
-</div>
-</div>
 
 - *2021,* **A wireless intelligent sensor and its application. patent number: CN202110094598.5**
 
