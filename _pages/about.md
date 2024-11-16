@@ -56,9 +56,6 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SLT 2024</div><img src='images/INTERSPEECH.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 - *2021,* **A wireless intelligent sensor and its application. patent number: CN202110094598.5**
 
   
