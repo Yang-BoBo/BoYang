@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bo Yang"
-description              : "Second year master student in Signal Processing System "
+description              : "Fresh CS PhD student@TuDelft  "
 repository               : "https://github.com/Yang-BoBo?tab=repositories"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bo Yang"
   avatar           : "images/photo.jpg"
-  bio              : "Eindhoven University of Technology"
-  location         : "Eindhoven, Netherlands"
-  employer         : "NXP"
+  bio              : "Delft University of Technology"
+  location         : "Delft, Netherlands"
+  employer         : 
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "b.yang2@student.tue.nl"
