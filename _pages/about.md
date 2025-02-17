@@ -24,7 +24,7 @@ Greetings! My name is Bo Yang, a CS PhD student at Delft University of Technolog
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I started my PhD studies in Computer Science at TU Delft. Supervised by Prof. [Qing Wang (Tu Delft)](https://www.st.ewi.tudelft.nl/qing/) and Prof. [Fernando A. Kuipers (Tu Delft)](https://fernandokuipers.nl/)
 - *2024.09*: &nbsp;🎉🎉 I graduate from TU/e with Cum Laude, and finish my internship at NXP system group.
-- *2023.12*: &nbsp;🎉🎉 I will be an intern at **[NXP](https://www.nxp.com/)** for 9 months, supervised by Prof. [Ronald Aarts (TU/e)](https://scholar.google.com/citations?user=4YkmIdIAAAAJ) and Prof. [Frans Widdershoven(Tud)](https://scholar.google.com/citations?user=hjoNDEcAAAAJ)
+- *2023.12*: &nbsp;🎉🎉 I will be an intern at **[NXP](https://www.nxp.com/)** for 9 months, supervised by Prof. [Ronald Aarts (TU/e)](https://scholar.google.com/citations?user=4YkmIdIAAAAJ) and Prof. [Frans Widdershoven (Tu Delft)](https://scholar.google.com/citations?user=hjoNDEcAAAAJ)
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[IMEC](https://www.imec.be/nl)** for 5 months, supervised by Dr. [Alireza Sheikh (IMEC)](https://scholar.google.com/citations?user=cFi3oTsAAAAJ) and Prof. [Hamdi Joudeh (TU/e)](https://www.tue.nl/en/research/researchers/hamdi-joudeh/)
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e in Electrical Engineering (Signal Processing System).
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Shandong University with a bachelor’s degree, supervised by [Jifang Tao](https://scholar.google.com.sg/citations?user=s_cKVGgAAAAJ&hl=en).
