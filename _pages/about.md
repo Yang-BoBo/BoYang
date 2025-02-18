@@ -89,4 +89,5 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
 
 - *2021.09 - 2022.01, Research Intern*, **DiDi Global**, China
 
-% # 🔥 Project
+
+{% % # 🔥 Project %}
