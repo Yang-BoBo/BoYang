@@ -67,15 +67,7 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
 
 - *2022.09 - 2024.08*, Master in Eletrical Engneering(track:Signal Processing System),**(CUM LAUDE)**, **Eindhoven University of Technology**, Netherlands
 
-	*GPA*: 8.5/10, *THESIS*: 9/10
-	
-	*Relevant Course*:
-	Statistical signal processing, Non-linear optimization, Bayesian machine learning and information processing , Adaptive array signal processing, Techniques for video compression & analysis,  Convolutional neural networks for computer vision, Advanced sensing using deep learning.
-
-
 - *2018.09 - 2022.07*, Bachelor in Electronic Engineering, **Shandong University**, Qingdao, China
-	
-	*GPA*: 84.76/100
 
 
 # 💬 Invited as TPC reviewer
