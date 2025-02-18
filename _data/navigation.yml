@@ -2,10 +2,10 @@
 main:
   - title: "personal CV"
     url: "https://yang-bobo.github.io/BoYang/file/BoYangCV2.pdf"
-  - title: "transcript"
-    url: "https://yang-bobo.github.io/BoYang/file/Master_transcript.pdf"
-  - title: "GRE"
-    url: "https://yang-bobo.github.io/BoYang/file/GRE.pdf"
+#  - title: "transcript"
+#    url: "https://yang-bobo.github.io/BoYang/file/Master_transcript.pdf"
+#  - title: "GRE"
+#    url: "https://yang-bobo.github.io/BoYang/file/GRE.pdf"
 
 #  - title: "Honors and Awards"
 #    url: "/#-honors-and-awards"
