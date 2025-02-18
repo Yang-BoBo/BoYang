@@ -22,9 +22,9 @@ Greetings! My name is Bo Yang, a CS PhD student at Delft University of Technolog
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I started my PhD studies in Computer Science at TU Delft. Supervised by Prof. [Qing Wang (Tu Delft)](https://www.st.ewi.tudelft.nl/qing/) and Prof. [Fernando A. Kuipers (Tu Delft)](https://fernandokuipers.nl/)
+- *2024.11*: &nbsp;🎉🎉 I started my PhD studies in Computer Science at TU Delft. Supervised by Prof. [Qing Wang (TU Delft)](https://www.st.ewi.tudelft.nl/qing/) and Prof. [Fernando A. Kuipers (TU Delft)](https://fernandokuipers.nl/)
 - *2024.09*: &nbsp;🎉🎉 I graduate from TU/e with Cum Laude, and finish my internship at NXP system group.
-- *2023.12*: &nbsp;🎉🎉 I will be an intern at **[NXP](https://www.nxp.com/)** for 9 months, supervised by Prof. [Ronald Aarts (TU/e)](https://scholar.google.com/citations?user=4YkmIdIAAAAJ) and Prof. [Frans Widdershoven (Tu Delft)](https://scholar.google.com/citations?user=hjoNDEcAAAAJ)
+- *2023.12*: &nbsp;🎉🎉 I will be an intern at **[NXP](https://www.nxp.com/)** for 9 months, supervised by Prof. [Ronald Aarts (TU/e)](https://scholar.google.com/citations?user=4YkmIdIAAAAJ) and Prof. [Frans Widdershoven (TU Delft)](https://scholar.google.com/citations?user=hjoNDEcAAAAJ)
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[IMEC](https://www.imec.be/nl)** for 5 months, supervised by Dr. [Alireza Sheikh (IMEC)](https://scholar.google.com/citations?user=cFi3oTsAAAAJ) and Prof. [Hamdi Joudeh (TU/e)](https://www.tue.nl/en/research/researchers/hamdi-joudeh/)
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e in Electrical Engineering (Signal Processing System).
 - *2022.07*: &nbsp;🎉🎉 I am graduated from Shandong University with a bachelor’s degree, supervised by [Jifang Tao](https://scholar.google.com.sg/citations?user=s_cKVGgAAAAJ&hl=en).
@@ -61,6 +61,10 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
   
 
 # 📖 Educations
+- *2024.11 - now*, PhD in Computer Science, **Delft University of Technology**, Qingdao, China
+	
+	*Research Field*: EdgeAI and 6G Networks
+
 - *2022.09 - 2024.08*, Master in Eletrical Engneering(track:Signal Processing System),**(CUM LAUDE)**, **Eindhoven University of Technology**, Netherlands
 
 	*GPA*: 8.5/10, *THESIS*: 9/10
@@ -81,47 +85,8 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
 # 💻 Internships
 - *2023.12 - 2024.09, Research Intern*, **NXP**, Eindhoven NL
 
-	- I am a part of the ML&AI department at NXP, where my role centers around the optimization of the innovative Complex-Real Value Neural Network (CRVNN) developed by NXP.
-	- My primary focus lies within the realm of autoML, particularly in areas such as Hyperparameter Optimization (HPO) and Neural Architecture Search (NAS).
-	- I leverage autoML frameworks like Optuna and NNI to enhance both the architecture and other hyperparameters of the CRVNN. Additionally, I am actively involved in crafting automated procedures for the design of this novel network.
-	- My responsibilities extend to the development of an architecture optimization framework, followed by efforts to enhance the interpretability and explainability of the network. Once the CRVNN architecture is refined, I apply it to specific tasks, such as optimizing its performance for applications like hearing aids.
-
 - *2023.07 - 2023.12, Research Intern*, **IMEC**, Eindhoven NL
 
-	- In my role as a research intern with the UWB4z group at IMEC, my primary responsibility is to enhance the accuracy of range estimation and localization for UWB devices in diverse environments.
-	- I delve into the development of innovative algorithms and construct efficient neural networks to elevate the precision of UWB devices. Through a comprehensive analysis of UWB signal characteristics, I introduced a cutting-edge neural network architecture named 'STMnet'.
-	- This architecture, when integrated with IMEC's internal algorithm, resulted in a significant enhancement in range estimation performance compared to established methods. The successful outcomes of this work have been documented and published in the International Symposium on Joint Communications & Sensing 2024.
-
 - *2021.09 - 2022.01, Research Intern*, **DiDi Global**, China
-	
-	Assisting with the development and execution of test plans and test cases for software applications or websites.
-Participating in the testing of software releases to identify bugs, defects, and usability issues. Documenting and
-tracking defects and issues found during testing, and working with developers to resolve them. Conducting
-regression testing to ensure that previously identified defects have been fixed and do not reoccur.
 
-
-# 🔥 Project
-- *2023.07 - 2023.12*, **UWB signal Range Estimation by STMnet**
-	
-	- Use a successive threshold-based multipath mitigation algorithm (STM) that improves the ranging performance in multipath conditions.
-	- Then further improve the ranging performance of STM in multipath conditions by aiding the STM with STMnet as a  Neural network that estimates the ranging error of the STM.
-
-      
-- *2023.03 - 2023.06*, **DOA Estimation By Deep Learning**
-	
-	- Propose a solution for the estimation of number of sources together with their corresponding DOAs. 
-	- Combine neural network with maximum likelihood estimation (MLE) to obtain a good results and save computation resources. Test the solution by different scenarios and the performance is great for signals with low SNR.
-
-
-- *2023.01 - 2023.03,* **Anomaly Detection with Autoencoder**
-
-	- Implement, run and analyze an autoencoder architecture from scratch for anomaly detection purpose on MNIST dataset.
-
-
-- *2022.11 - 2023.01,* **Cityscapes Pixel-Level Segmentation Benchmark and Robust Segmentation**
-
-	- create a network that performs semantic segmentation on the Cityscapes dataset.
- 	- implementation of a trainable network which successfully evaluates on the cityscapes dataset.
-	- Neural networks degrade in performance when unexpected things occur. We Finetune the network to become a robust solution for various conditions, to overvcome the degrade in performance when unexpected things occur.
-	- Use two robustness benchmarks(Degrading of image quality and Generalization) to evaluate the NN.
-
+% # 🔥 Project
