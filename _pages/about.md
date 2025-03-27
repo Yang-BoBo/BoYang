@@ -61,7 +61,7 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
   
 
 # 📖 Educations
-- *2024.11 - now*, PhD in Computer Science, **Delft University of Technology**, Netherlands
+- *2024.11 - now*, PhD student in Computer Science, **Delft University of Technology**, Netherlands
 	
 	*Research Field*: EdgeAI and 6G Networks
 
