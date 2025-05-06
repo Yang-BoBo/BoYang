@@ -32,10 +32,10 @@ Greetings! My name is Bo Yang, a CS PhD student at Delft University of Technolog
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OJSP 2025</div><img src='images/ECAI_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ECAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Hybrid Real- and Complex-valued Neural Network Architecture** (under submission)
+**Hybrid Real- and Complex-valued Neural Network Architecture** 
 
 Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Boris Karanov, Wim van Houtum, Ronald Aarts
 
