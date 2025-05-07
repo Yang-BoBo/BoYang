@@ -35,7 +35,7 @@ Greetings! My name is Bo Yang, a CS PhD student at Delft University of Technolog
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arXiv </div><img src='images/ECAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Hybrid Real- and Complex-valued Neural Network Architecture** 
+[**Hybrid Real- and Complex-valued Neural Network Architecture**](https://arxiv.org/abs/2504.03497)
 
 Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Boris Karanov, Wim van Houtum, Ronald Aarts
 
@@ -45,12 +45,10 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JC&S 2024</div><img src='images/JCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Successive Threshold-Based Multipath Mitigation Aided by Neural Network for UWB Ranging](https://yang-bobo.github.io/BoYang/file/JC&S.pdf)
+[**Successive Threshold-Based Multipath Mitigation Aided by Neural Network for UWB Ranging, JC&S 2024**](https://ieeexplore.ieee.org/document/10646324)
 
 
  Alireza Sheikh, **Bo Yang**, Mohieddine El Soussi, Amirashkan Farsaei, and Peng Zhang
-
-- [NN-aid-High-accuracy-Range-Estimation](https://github.com/Yang-BoBo/NN-aid-High-accuracy-Range-Estimation),  **JC&S 2024**
 
 
 </div>
