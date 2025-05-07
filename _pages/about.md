@@ -35,7 +35,7 @@ Greetings! My name is Bo Yang, a CS PhD student at Delft University of Technolog
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arXiv </div><img src='images/ECAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Hybrid Real- and Complex-valued Neural Network Architecture**](https://arxiv.org/abs/2504.03497)
+[**Hybrid Real- and Complex-valued Neural Network Architecture, arXiv**](https://arxiv.org/abs/2504.03497)
 
 Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Boris Karanov, Wim van Houtum, Ronald Aarts
 
