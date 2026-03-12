@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Greetings! My name is Bo Yang, a CS PhD student at Delft University of Technology. My research focuses on Embedded AI for 6G Networks, optimizing AI algorithms to adapt to diverse hardware and computing capabilities across advanced communication infrastructures. With an emphasis on designing hardware-aware, adaptable AI models, I aim to enhance performance and scalability within 6G base stations that manage densely packed frequency bands. My work supports seamless connectivity across space, air, and ground base stations, driving innovation in the co-design of AI and hardware for efficient, next-generation network solutions.
-
+I am a PhD student in Computer Science at TU Delft. My research focuses on small language models and their applications in next-generation networks. I investigate how compact and efficient AI models can be deployed on edge devices to support intelligent network services. My work explores efficient AI architectures, distributed edge inference, and learning-driven network optimization for next generation network systems.
 
 
 # 🔥 News
