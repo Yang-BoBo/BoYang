@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Computer Science at TU Delft. My research focuses on small language models and their applications in next-generation networks. I investigate how compact and efficient AI models can be deployed on edge devices to support intelligent network services. My work explores efficient AI architectures, distributed edge inference, and learning-driven network optimization for next generation network systems.
+I am a PhD student in Computer Science at TU Delft. My research focuses on small language models and their applications in 6G networks. I investigate how compact and efficient AI models can be deployed on edge devices to support intelligent network services. My work explores efficient AI architectures, distributed edge inference, and learning-driven network optimization for next generation network systems.
 
 
 # 🔥 News
