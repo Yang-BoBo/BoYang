@@ -34,7 +34,7 @@ I am a PhD student in Computer Science at TU Delft. My research focuses on small
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arXiv </div><img src='images/ECAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Hybrid Real- and Complex-valued Neural Network Architecture, arXiv**](https://arxiv.org/abs/2504.03497)
+[**Hybrid Real- and Complex-valued Neural Network Architecture, Journal on Audio, Speech, and Music Processing**](https://link.springer.com/article/10.1186/s13636-026-00457-2)
 
 Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Boris Karanov, Wim van Houtum, Ronald Aarts
 
