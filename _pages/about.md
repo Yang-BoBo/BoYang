@@ -35,7 +35,7 @@ I am a PhD student in Computer Science at TU Delft. My research focuses on small
 
 [**LightWRF: Accelerating Radio Environments Reconstruction via Redundancy Reduction in Wireless Radiance Fields, GLOBLECOM 2026**]
 
-Blendi Ahmeti, **Bo Yang**, Qing Wang
+Blendi Ahmeti(MSc student I supervised), **Bo Yang**, Qing Wang
 
 </div>
 </div>
