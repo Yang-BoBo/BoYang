@@ -30,6 +30,17 @@ I am a PhD student in Computer Science at TU Delft. My research focuses on small
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> GLOBLECOM 2026 </div><img src='images/lightWRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**LightWRF: Accelerating Radio Environments Reconstruction via Redundancy Reduction in Wireless Radiance Fields, GLOBLECOM 2026**]
+
+Blendi Ahmeti, **Bo Yang**, Qing Wang
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Journal on Audio, Speech, and Music Processing </div><img src='images/ECAI_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
