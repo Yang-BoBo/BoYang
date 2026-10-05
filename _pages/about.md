@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-CS PhD researcher @ TU Delft. Interested in how AI can move beyond data centres and become part of the devices around us.
+CS PhD researcher @ TU Delft (⌐■_■). Interested in how AI can move beyond data centres and become part of the devices around us.
 
 My research focuses on the systems needed to run and coordinate AI across real hardware, where resources are limited and conditions change. My goal is to make powerful machine intelligence available wherever computing happens.
 
-AFTER HOURS:
+AFTER HOURS ༼ つ▀̿Ĺ̯▀̿ ༽つ:
 
 🎮 Independent Game Developer ('Bringing Home the Bacon' on Steam)
 
-♫ Occasional Jazz Producer
+🎷 Occasional Jazz Producer
 
-₿ Daily Crypto & stock Trader + Part-time Polymarket Degen
+🪙 Daily Crypto & Equity Trader + Part-time Polymarket Degen
 
 📈 Founder & CIO of an Extremely Private Fund (LPs: Me)
 
