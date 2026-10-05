@@ -17,23 +17,33 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Computer Science at TU Delft. My research focuses on small language models and their applications in 6G networks. I investigate how compact and efficient AI models can be deployed on edge devices to support intelligent network services. My work explores efficient AI architectures, distributed edge inference, and learning-driven network optimization for next generation network systems.
+CS PhD researcher @ TU Delft. Interested in how AI can move beyond data centres and become part of the devices around us.
+
+My research focuses on the systems needed to run and coordinate AI across real hardware, where resources are limited and conditions change. My goal is to make powerful machine intelligence available wherever computing happens.
+
+AFTER HOURS:
+🎮 Independent Game Developer ('Bringing Home the Bacon' on Steam)
+♫ Occasional Jazz Producer
+₿ Daily Crypto & stock Trader + Part-time Polymarket Degen
+📈 Founder & CIO of an Extremely Private Fund (LPs: Me)
+📷 Amateur Photographer
+✈️ Travel Blogger
 
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I started my PhD studies in Computer Science at TU Delft. Supervised by Prof. [Qing Wang (TU Delft)](https://www.st.ewi.tudelft.nl/qing/) and Prof. [Fernando A. Kuipers (TU Delft)](https://fernandokuipers.nl/)
-- *2024.09*: &nbsp;🎉🎉 I graduate from TU/e with Cum Laude, and finish my internship at NXP system group.
+- *2024.09*: &nbsp;🎉🎉 I graduated from TU/e with Cum Laude, and finish my internship at NXP system group.
 - *2023.12*: &nbsp;🎉🎉 I will be an intern at **[NXP](https://www.nxp.com/)** for 9 months, supervised by Prof. [Ronald Aarts (TU/e)](https://scholar.google.com/citations?user=4YkmIdIAAAAJ) and Prof. [Frans Widdershoven (TU Delft)](https://scholar.google.com/citations?user=hjoNDEcAAAAJ)
 - *2023.07*: &nbsp;🎉🎉 I will be an intern at **[IMEC](https://www.imec.be/nl)** for 5 months, supervised by Dr. [Alireza Sheikh (IMEC)](https://scholar.google.com/citations?user=cFi3oTsAAAAJ) and Prof. [Hamdi Joudeh (TU/e)](https://www.tue.nl/en/research/researchers/hamdi-joudeh/)
 - *2022.09*: &nbsp;🎉🎉 I started my master's study at TU/e in Electrical Engineering (Signal Processing System).
-- *2022.07*: &nbsp;🎉🎉 I am graduated from Shandong University with a bachelor’s degree, supervised by [Jifang Tao](https://scholar.google.com.sg/citations?user=s_cKVGgAAAAJ&hl=en).
+- *2022.07*: &nbsp;🎉🎉 I graduated from Shandong University with a bachelor’s degree, supervised by [Jifang Tao](https://scholar.google.com.sg/citations?user=s_cKVGgAAAAJ&hl=en).
 
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> GLOBLECOM 2026 </div><img src='images/lightWRF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**LightWRF: Accelerating Radio Environments Reconstruction via Redundancy Reduction in Wireless Radiance Fields, GLOBLECOM 2026**]
+**LightWRF: Accelerating Radio Environments Reconstruction via Redundancy Reduction in Wireless Radiance Fields, GLOBECOM 2026**
 
 Blendi Ahmeti(MSc student I supervised), **Bo Yang**, Qing Wang
 
@@ -68,12 +78,12 @@ Alex Young(Corresponding), Luan Vinıcius Fiorio(Corresponding), **Bo Yang**, Bo
 
   
 
-# 📖 Educations
+# 📖 Education
 - *2024.11 - now*, PhD student in Computer Science, **Delft University of Technology**, Netherlands
 	
 	*Research Field*: EdgeAI and 6G Networks
 
-- *2022.09 - 2024.08*, Master in Eletrical Engneering(track:Signal Processing System),**(CUM LAUDE)**, **Eindhoven University of Technology**, Netherlands
+- *2022.09 - 2024.08*, Master in Electrical Engneering(track:Signal Processing System),**(CUM LAUDE)**, **Eindhoven University of Technology**, Netherlands
 
 - *2018.09 - 2022.07*, Bachelor in Electronic Engineering, **Shandong University**, Qingdao, China
 
