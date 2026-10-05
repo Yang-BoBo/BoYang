@@ -22,11 +22,17 @@ CS PhD researcher @ TU Delft. Interested in how AI can move beyond data centres 
 My research focuses on the systems needed to run and coordinate AI across real hardware, where resources are limited and conditions change. My goal is to make powerful machine intelligence available wherever computing happens.
 
 AFTER HOURS:
+
 🎮 Independent Game Developer ('Bringing Home the Bacon' on Steam)
+
 ♫ Occasional Jazz Producer
+
 ₿ Daily Crypto & stock Trader + Part-time Polymarket Degen
+
 📈 Founder & CIO of an Extremely Private Fund (LPs: Me)
+
 📷 Amateur Photographer
+
 ✈️ Travel Blogger
 
 
